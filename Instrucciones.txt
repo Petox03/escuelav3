@@ -1,0 +1,11 @@
+Debido a que no he encontrado la manera de crear una base de datos y las tablas eficientemente, de momento, le hago envío
+de el diagrama con la base de datos y tablas para hacer un foward engineer.
+
+Paso 1.- Exportar la base de datos y tablas para tener lo necesario y así funcione el sistema escolar.
+El diagrama trae consigo la cuenta de administrador y 4 cuentas más, pero el sistema registra satisfactoriamente nuevos
+usuarios al sistema.
+
+Paso 2.- Ingresar con la cuenta admin para hacer los cambios en calificaciones de los alumnos, la cuenta es: admin
+y la contraseña es: 123.
+
+Paso 3.- Si se desea ver lo que sucede en la cuenta de los alumnos. Se debe Ingresar al sistema con una cuenta de alumno.
