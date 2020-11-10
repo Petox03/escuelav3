@@ -1,2 +1,2 @@
 # escuelav3
-Proyecto de administración escolar con HTML, CSS, JS, PHP, Laravel e Illuminate Database
+Proyecto de administración escolar con HTML, CSS, Bulma.css, PHP, Laravel e Illuminate Database
