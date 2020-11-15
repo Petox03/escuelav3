@@ -1,7 +1,4 @@
-Debido a que no he encontrado la manera de crear una base de datos y las tablas eficientemente, de momento, le hago envío
-de el diagrama con la base de datos y tablas para hacer un foward engineer.
-
-Paso 1.- Exportar la base de datos y tablas para tener lo necesario y así funcione el sistema escolar.
+Paso 1.- Exportar la base de datos y tablas para tener lo necesario y así funcione el sistema escolar, o usar setup.php(no recomendado)
 El diagrama trae consigo la cuenta de administrador y 4 cuentas más, pero el sistema registra satisfactoriamente nuevos
 usuarios al sistema.
 
