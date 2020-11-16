@@ -14,7 +14,7 @@ require 'config/database.php';
 //? estructura principal de HTML y llamada a las metadatas, frameworks y estilos.
 echo '
 <!DOCTYPE html>
-    <html lang="es">
+    <html lang="es" class="fondo">
 
     <head>
         <meta charset="utf-8">
